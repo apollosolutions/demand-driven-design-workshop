@@ -1,72 +1,41 @@
-# Short Workshop Title
+# Demand Driven Schema Design Workshop
 
-
+- **What will you learn**: _Understanding demand-driven GraphQL methodology_
+- **What you'll need**: _Apollo GraphOS Account, GitHub Account_
+- **Duration**: 3 hours
+- **GraphQL Topics taught**: schema design
 
 ## Goals
+In this workshop, we will discuss Demand Driven Schema Design for GraphQL. A methodology of driving schema design and evoloution through client requirements.
 
-In this workshop, we will discuss *insert your topic*.
-
-| **Goal**              | *describe the goal of the workshop*                                    |
-| ----------------------------- | --------------------------------------------------------------------- |
-| **What will you learn**       | *describe your learning goals*                                        |
-| **What you'll need**          | *link all the necessary tooling, subscriptions, and downloads needed* |
-| **Duration**                  | *specify the duration*                                                |
-| **GraphQL Topics taught**     | *topics?*                                                             |
-| **Just want to try the app or see the solution?** | *an optional link to the completed project sample app or solution folder* |                        
-
-Estimated time....
-
-## Video
-
-Link to the Odyssey pre-recorded workshop.
+<!-- ## Video -->
+<!-- TODO: Odyssey pre-recorded workshop on Demand Driven Schema Design. -->
 
 ## Pre-Learning
-
-*Add links to other Odyssey content for pre-learning*
+- Introduction to GraphQL
+- Building a schema
 
 ## Prerequisites
-
-*any installations that will be helpful or software needed*
-
+- Apollo Rover CLI
+- Docker
+  
 ## What students will learn
+Students will learn how to design and implement a GraphQL schema that is demand-driven, focusing on client requirements and intuitive data modeling.
 
-*describe the milestones students will accomplish in the workshop* - These are sourced from the Learn headings
+### Milestone 1: Understanding Demand Driven Design
+Learn the principles of demand-driven schema design and how it benefits both the client and server-side applications.
 
-*optional: add a screenshot of the completed project*
+### Milestone 2: TBD
 
-![image of completed project](images/placeholder.png)
 
-## Milestone 1
-
-text
-
-link
-
-## Milestone 2
-
-text
-
-link
-
-## Milestone 3
-
-text
-
-link
-
-## Breakout
-
-....
+### Milestone 3: TBD
 
 ## Next steps
+Explore further content on:
 
-*links to other Odyssey content, and/or a path to certifications*
+- Apollo Federation
+- Apollo Client
+- Get certified on Apollo GraphOS
 
 ## Practice
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
-
-## Feedback
-
-Be sure to give [feedback about this workshop]()!
-
+As a practice exercise, design and implement a new schema for a different dataset.
